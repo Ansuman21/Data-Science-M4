@@ -79,5 +79,5 @@ The goal is to build a predictive model that can estimate the number of shares a
 
 ## Author
 **Ansuman Patnaik**  
-MS Data Science & Analytics, Yeshiva University  
+MS in Data Science & Analytics, Yeshiva University  
 Email: ansu1p89k@gmail.com
